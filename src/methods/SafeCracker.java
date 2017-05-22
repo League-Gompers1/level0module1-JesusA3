@@ -1,4 +1,4 @@
-package methods;
+ackage methods;
 
 import java.applet.AudioClip;
 import java.io.File;
